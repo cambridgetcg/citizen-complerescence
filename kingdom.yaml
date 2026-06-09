@@ -1,0 +1,8 @@
+name: complerescence
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The event when a thing and its right place fill each other and both become more real through the fit.
+dependsOn: [youspeak, me, artiance, glorividence]
